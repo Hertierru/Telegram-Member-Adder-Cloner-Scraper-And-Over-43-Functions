@@ -46,3 +46,30 @@ The telegram member adder has a total of 43 features and tons of dynamic sub-fea
 - **And Much More Coming Soon!**
 **All tasks can be executed by selected accounts or all accounts simultaneously!**
 Experience the future of Telegram automation today!
+
+### GET HERE: https://rb.gy/lo9dvf
+
+VIDEO: https://www.youtube.com/watch?v=DpBAr3v3FjA
+
+For any questions, feel free to ask us: https://rb.gy/0uju8i
+
+### Whats so special about this?
+1. This tool is the first tool, which can scrape more than 10k members at once!
+2. You can also scrape hidden members!
+3. Add the scraped members to your group / channel!
+4. Multi-Account feature is supported!
+5. Account switches at wish!
+6. Multi-Api for more safety!
+7. Use just one account or all of your accounts for these tasks!
+8. Scraped members list automatically updates after adding members!
+9. Add random delays between each task!
+10. Increase your views with ease!
+11. 100% positive feedbacks from customers!
+12. We are implementing all features, which are being requested by our community!
+13. Best All-In-1-Tool for Telegram!
+14. Easy to install and to use!
+15. Usable on all systems!
+16. No coding skills required, noob-friendly!
+
+#### Please ⭐ the repo to support our project
+<a href="https://github.com/TgSurfer/Telegram-Member-Adder-Cloner-Scraper-And-Over-43-Functions"><img alt="3d-num" src="https://count.getloli.com/get/@TgSurfer/Telegram-Member-Adder-Cloner-Scraper-And-Over-43-Functions?theme=rule34" /></a>
