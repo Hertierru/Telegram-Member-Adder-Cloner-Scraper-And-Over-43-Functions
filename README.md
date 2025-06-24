@@ -3,7 +3,11 @@ Telegram member adder is an all in one fully automated tool for Telegram with +4
 ## Add Telegram Members from targeted groups of your choice into your own group!
 ### 43 MAIN FUNCTIONS!
 
+#### GET HERE: https://rb.gy/lo9dvf
 
+VIDEO: https://www.youtube.com/watch?v=DpBAr3v3FjA
+
+For any questions, feel free to ask us: https://rb.gy/0uju8i
 
 <img src='menu.png' width='430'>
 
